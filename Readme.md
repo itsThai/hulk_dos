@@ -12,7 +12,7 @@
 
 ```curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt -o http.txt```
 
-<h4>Pick one of the proxy and put in in <b>hulk.go</b> line 28 with the format "http://<ip>:<port>" and in line 29, put the URL of the target.</h4>
+<h4>Pick one of the proxy and put in in <b>hulk.go</b> line 28 in the format "http://ip:port" and in line 29, put the URL of the target.</h4>
 
 ## FUTURE WORK
 
